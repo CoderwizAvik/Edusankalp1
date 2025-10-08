@@ -30,4 +30,4 @@ Welcome to **My Web Project** — a modern, responsive, and user-friendly web ap
 Clone the repository and install dependencies:
 
 ```bash
-[EduSankalp](https://github.com/CoderwizAvik/Edusankalp1/main.html)
+https://github.com/CoderwizAvik/Edusankalp1/main.html
