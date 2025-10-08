@@ -31,3 +31,5 @@ Clone the repository and install dependencies:
 
 ```bash
 https://github.com/CoderwizAvik/Edusankalp1/main.html
+cd yourproject
+npm install
