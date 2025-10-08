@@ -1,6 +1,6 @@
 # 🌐EduSankalp
 
-Welcome to **My Web Project** — a modern, responsive, and user-friendly web application built to deliver an amazing online experience.
+Welcome to **EduSankalp** — a modern, responsive, and user-friendly web application built to deliver an amazing online experience for underserved children.
 
 ---
 
